@@ -1,0 +1,15 @@
+C:\Users\81909\GodHand\bin\Debug\net7.0\GodHand.exe
+C:\Users\81909\GodHand\bin\Debug\net7.0\GodHand.deps.json
+C:\Users\81909\GodHand\bin\Debug\net7.0\GodHand.runtimeconfig.json
+C:\Users\81909\GodHand\bin\Debug\net7.0\GodHand.dll
+C:\Users\81909\GodHand\bin\Debug\net7.0\GodHand.pdb
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.csproj.AssemblyReference.cache
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.AssemblyInfoInputs.cache
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.AssemblyInfo.cs
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.csproj.CoreCompileInputs.cache
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.dll
+C:\Users\81909\GodHand\obj\Debug\net7.0\refint\GodHand.dll
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.pdb
+C:\Users\81909\GodHand\obj\Debug\net7.0\GodHand.genruntimeconfig.cache
+C:\Users\81909\GodHand\obj\Debug\net7.0\ref\GodHand.dll
